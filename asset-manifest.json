@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prriyamishra44/Tvmaze/static/css/main.50bdcf7b.css",
+    "main.js": "/prriyamishra44/Tvmaze/static/js/main.db330cfb.js",
+    "static/js/787.9a4af6ef.chunk.js": "/prriyamishra44/Tvmaze/static/js/787.9a4af6ef.chunk.js",
+    "index.html": "/prriyamishra44/Tvmaze/index.html",
+    "main.50bdcf7b.css.map": "/prriyamishra44/Tvmaze/static/css/main.50bdcf7b.css.map",
+    "main.db330cfb.js.map": "/prriyamishra44/Tvmaze/static/js/main.db330cfb.js.map",
+    "787.9a4af6ef.chunk.js.map": "/prriyamishra44/Tvmaze/static/js/787.9a4af6ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50bdcf7b.css",
+    "static/js/main.db330cfb.js"
+  ]
+}
